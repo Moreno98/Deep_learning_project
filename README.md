@@ -1,4 +1,4 @@
-# Deep_learning_project
+# Deep learning project
 This is the project for the deep learning course at University of Trento (Italy).  
 ## Data
 The project exploits video surveillance data, more precisely the Market1501 dataset. 
